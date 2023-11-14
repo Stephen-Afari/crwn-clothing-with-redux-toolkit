@@ -1,3 +1,7 @@
+Deployed Website:
+
+ https://regal-unicorn-f0b4cf.netlify.app/
+
 An Ecommerce app with navigation and routing that takes us to different pages of categories of items on sale. We can add items to our cart, checkout and is integrated with stripe API to handle payments. It is connected to firebase to handle Authentication and storage. This version was implemented using the Redux toolkit.
 
 User Interface: Displays the various categories of items on sale. You can click on any of these to display all the related items
